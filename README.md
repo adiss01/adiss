@@ -13,4 +13,5 @@ I'm adiss, I'm something of a LUA developer myself, and...
 
 ![adiss01's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiss01&show_icons=true&theme=radical)
 
-<img src="https://komarev.com/ghpvc/?username=adiss01&label=Number%20Visitors&color=000e27" alt="adiss01" />
+<img src="https://count.getloli.com/get/@:adiss01?theme=rule34" alt=":adiss01" />
+

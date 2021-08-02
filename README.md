@@ -2,13 +2,13 @@
 <div align='center'>
 <p>
     
-- Hi! 👋
-- I'm adiss, I'm something of a LUA developer myself, and...
+Hi! 👋
+I'm adiss, I'm something of a LUA developer myself, and...
 
-- 🔭 I'm currently working on trying to learn Front end dev
-- ⚡ I'm trying to teach people I can't fix their code without seeing it
-- 😡 I currently hate myself
-- ❤️ My Team's Discord: discord.gg/qRy53vW
+🔭 I'm currently working on trying to learn Front end dev
+⚡ I'm trying to teach people I can't fix their code without seeing it
+😡 I currently hate myself
+❤️ My Team's Discord: discord.gg/qRy53vW
 </p>
 </div>
 

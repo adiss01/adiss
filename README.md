@@ -10,4 +10,6 @@ I'm adiss, I'm something of a LUA developer myself, and...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiss01&layout=compact&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Ruqen's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiss01&show_icons=true&theme=radical)
+![adiss01's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiss01&show_icons=true&theme=radical)
+
+<img src="https://komarev.com/ghpvc/?username=adiss01&label=Number%20Visitors&color=000e27" alt="adiss01" />

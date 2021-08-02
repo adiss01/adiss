@@ -11,12 +11,15 @@ I'm adiss, I'm something of a LUA developer myself, and... <br>
 </p>
 </div>
 
+<div align='center'>
+<p>
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/342360490422566913?theme=dark&bg=000e27&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/342360490422566913)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiss01&layout=compact&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![adiss01's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiss01&show_icons=true&theme=radical)
-
+</p>
+</div>
 <div align="center">
 <p>
     <a href="https://www.instagram.com/adiss.exe/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>

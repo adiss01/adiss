@@ -2,7 +2,7 @@
 <div align='center'>
 <p>
     
-Hi! 👋
+Hi! 👋 <br>
 I'm adiss, I'm something of a LUA developer myself, and... <br>
 🔭 I'm currently working on trying to learn Front end dev <br>
 ⚡ I'm trying to teach people I can't fix their code without seeing it <br>

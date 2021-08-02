@@ -18,6 +18,7 @@ I'm adiss, I'm something of a LUA developer myself, and...
        <a href="https://open.spotify.com/user/0va37wpu51nl3104o0yi7d5dn?si=3ff2750c934241b8" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
        <a href="https://steamcommunity.com/id/adis00/" target"blank_"><img src="https://img.shields.io/badge/Steam%20-111111.svg?&style=for-the-badge&logo=steam&logoColor=white"> </a></a>
 </p>
-
-<img src="https://count.getloli.com/get/@:adiss01?theme=rule34" alt=":adiss01" />
+<p type='center'>
+    <img src="https://count.getloli.com/get/@:adiss01?theme=rule34" alt=":adiss01" />
+</p>
 

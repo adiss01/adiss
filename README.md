@@ -1,14 +1,3 @@
-
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><div align="center">
-<p>
-</p><p>Hi! <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> <br>
-I'm adiss, I'm something of a LUA developer myself, and... <br>
-<g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I'm currently working on trying to learn Front end dev <br>
-<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> I'm trying to teach people I can't fix their code without seeing it <br>
-<g-emoji class="g-emoji" alias="rage" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f621.png">😡</g-emoji> I currently hate myself <br>
-<g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> My Team's Discord: discord.gg/qRy53vW <br></p>
-<p></p>
-</div>
 <div align="center">
 <p>
 </p><p><a href="https://discord.com/users/342360490422566913" rel="nofollow"><img src="https://camo.githubusercontent.com/6d2edb88bdd6dbaabe3be901965bc4d39cacf8ba1aeb131c18af173d99fa866d/68747470733a2f2f6c616e796172642d70726f66696c652d726561646d652e76657263656c2e6170702f6170692f3334323336303439303432323536363931333f7468656d653d6461726b2662673d30303065323726616e696d617465643d7472756526686964654469736372696d3d66616c736526626f726465725261646975733d32307078" alt="Discord Presence" data-canonical-src="https://lanyard-profile-readme.vercel.app/api/342360490422566913?theme=dark&amp;bg=000e27&amp;animated=true&amp;hideDiscrim=false&amp;borderRadius=20px" style="max-width: 100%;"></a></p>
